@@ -1,5 +1,5 @@
 # RR-MCA
-# Ridge regression (RR) combined with model complexity analysis (MCA) for updating of near infrared (NIR) quantitative models.
+Ridge regression (RR) combined with model complexity analysis (MCA) for updating of near infrared (NIR) quantitative models.
 
 Reference:
 Zhang Feiyu, Zhang Ruoqiu, Wang Wenming, Yang Wuye, Li Long, Xiong Yinran, Kang Qidi, Du Yiping. 
